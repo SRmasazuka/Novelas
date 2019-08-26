@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
- 
+
+<channel>
+<name>[B][COLOR yellow]Rebelde[/COLOR] - [COLOR red]2004[/COLOR][/B]</name>
+<thumbnail>https://static1.purebreak.com.br/articles/8/82/67/8/@/308608-de-rebelde-veja-os-9-questionamentos-diapo-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/Novelas/master/rbd</externallink>
+<fanart>https://staticr1.blastingcdn.com/media/photogallery/2016/6/12/660x290/b_1200x675/novela-rebelde-pode-ganhar-nova-temporada-em-2017_745275.jpg</fanart>
+<info>
+[B][COLOR yellow]SINOPSE:[/COLOR][/B] Em um ambiente elitista, onde o poder e os bens materiais são supervalorizados, adolescentes abrem os olhos para a realidade do mundo. Eles lutam pelo direito de amar, para romper as barreiras sociais e pelos ideais nos quais acreditam.
+</info>
+</channel> 
+
 <channel>
 <name>[B][COLOR yellow]A Viagem[/COLOR] - [COLOR red]1994[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/QejNVJE.png</thumbnail>
