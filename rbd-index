@@ -1,14 +1,13 @@
-    
 <?xml version="1.0" encoding="utf-8"?>
+<channels>
 
-<item>
-<title>[COLOR yellow]Capítulo 01[/COLOR] | [COLOR red]NETFREE[/COLOR] PLAY</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f-VPXh5mH7A7RxfdlUCqiDHz98X_cWUj/view</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/14/Rebelde_Edi%C3%A7%C3%A3o_Brasil.jpg</thumbnail>
-<fanart>https://staticr1.blastingcdn.com/media/photogallery/2016/6/12/660x290/b_1200x675/novela-rebelde-pode-ganhar-nova-temporada-em-2017_745275.jpg</fanart>
+<channel>
+<name>[COLOR yellow]TEMPORADA 01[/COLOR] - [COLOR red]NOVELA REBELDE[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/Novelas/master/rbd-01</externallink>
+<fanart>https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a9d69.jpg</fanart>
 <info>
-[B]ESTÁ NOVELA SERÁ COMPLETA EM BREVE[/B]
-[B][COLOR yellow]NOVOS CAPÍTULOS TODOS OS DIAS !!![/COLOR][/B]
-[B][COLOR yellow]COMPARTILHE E COMENTE COM AMIGOS E AJUDE O ADD-ON[/COLOR][/B]
+01 TEMPORADA
+AS DEMAIS TEMPORADAS SERÃO ADICIONADAS EM BREVE...
 </info>
-</item>
+</channel> 
