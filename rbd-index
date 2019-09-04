@@ -2,12 +2,45 @@
 <channels>
 
 <channel>
+<name>[COLOR yellow]TRILHA SONORA / MÚSICAS[/COLOR] - [COLOR red]NOVELA REBELDE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/pdRqFtr.png</thumbnail>
+<externallink></externallink>
+<fanart>https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a9d69.jpg</fanart>
+<info>
+[COLOR yellow]EM BREVE TRILHA SONORA DA NOVELA[/COLOR]
+[COLOR blue]ESTOU FAZENDO UM TESTE DE TRILHAS SONORAS[/COLOR]
+[COLOR yellow]COMENTE OQUE ACHOU NO NOSSOS GRUPOS DE WHATSAPP E FACEBOOK[/COLOR]
+</info>
+</channel>
+
+<channel>
 <name>[COLOR yellow]TEMPORADA 01[/COLOR] - [COLOR red]NOVELA REBELDE[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/pdRqFtr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/SRmasazuka/Novelas/master/rbd-01</externallink>
 <fanart>https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a9d69.jpg</fanart>
 <info>
-01 TEMPORADA
+01 TEMPORADA !!
+NOVOS EPISÓDIOS TODOS OS DIAS.
 AS DEMAIS TEMPORADAS SERÃO ADICIONADAS EM BREVE...
+</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow]TEMPORADA 02[/COLOR] - [COLOR red]NOVELA REBELDE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/pdRqFtr.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a9d69.jpg</fanart>
+<info>
+[COLOR yellow]EM BREVE...[/COLOR]
+</info>
+</channel> 
+
+<channel>
+<name>[COLOR yellow]TEMPORADA 03[/COLOR] - [COLOR red]NOVELA REBELDE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/pdRqFtr.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://fanart.tv/fanart/music/5bae9c05-fabd-420f-b806-c5b8ba88bd7e/artistbackground/rbd-51218a67a9d69.jpg</fanart>
+<info>
+[COLOR yellow]EM BREVE...[/COLOR]
 </info>
 </channel> 
